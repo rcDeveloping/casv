@@ -4,5 +4,5 @@ A tabela com dados brtuos do CASV foi processada para limpeza de dados utilizand
 
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/rcflorestal/casv/blob/main/output/20211029_145501.gif">
 </p>
